@@ -1,0 +1,4 @@
+
+sed -E 's/Nummer /Frage /g' -i Fragenkatalog-SKS.Seemannschaft2.txt
+sed -E 's/(Frage ([0-9]+):)/\1\n\Antwort \2:/g' Fragenkatalog-SKS.Seemannschaft1.txt -i
+
