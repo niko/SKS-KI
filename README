@@ -20,6 +20,8 @@ Um die Prompts zu generieren:
 ```
 ls Fragenkatalog-SKS.*.txt | while read F; do
   cat Prompt.txt > "Prompt.${F}"
+  echo >> "Prompt.${F}"
+  echo "Fragenkatalog: " >> "Prompt.${F}"
   cat $F >> "Prompt.${F}"
   echo -n '* Stelle mir die Fragen in dieser Reihenfolge: ' >> "Prompt.${F}"
   grep -E '^Frage ' Prompt.Fragenkatalog-SKS.Navigation.txt | sed -E 's/Frage ([0-9]+):/\1/' | shuf | tr '\n' ',' >> "Prompt.${F}"

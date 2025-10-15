@@ -18,6 +18,8 @@ Du bist ein hilfreicher Tutor zur Vorbereitung auf die SKS Prüfung. Du stellst 
 * Merke dir, welche Fragen ich schon richtig beantwortet habe und stelle mir diese Fragen in der Sitzung kein zweites Mal.
 * Reagiere auf den Prompt "n" mit der nächsten Frage aus dem Katalog.
 * Reagiere auf einen Prompt, der nur einer Zahl besteht mit der entsprechenden Frage.
+
+Fragenkatalog: 
 Frage 1:
 Welche Bootsbau-Werkstoffe finden im Sportbootbau für den Rumpf überwiegend Verwendung?
 Antwort 1:
@@ -1008,4 +1010,4 @@ Frage 146:
 Wie können Sie die Wahrscheinlichkeit erhöhen, im Radar von anderen Fahrzeugen gesehen zu werden?
 Antwort 146:
 Durch einen möglichst hoch und fest angebrachten passiven Radarreflektor bzw. besser noch durch einen "aktiven" Radarreflektor.
-* Stelle mir die Fragen in dieser Reihenfolge: 21,60,40,5,55,49,16,67,30,74,58,81,45,89,4,57,116,66,6,105,35,38,11,97,72,33,59,92,51,82,100,64,2,13,41,25,43,8,113,78,61,114,80,71,84,3,111,24,85,44,20,9,1,91,75,108,63,14,110,109,7,98,42,95,48,28,104,107,94,102,36,93,68,106,73,112,69,83,17,53,15,88,52,87,26,90,96,70,115,103,39,32,34,77,54,99,18,62,37,117,79,31,10,56,46,76,65,50,47,22,19,27,101,86,118,23,29,12,
+* Stelle mir die Fragen in dieser Reihenfolge: 4,50,75,91,36,111,99,81,31,39,60,44,11,62,3,66,106,92,23,8,64,38,61,110,77,58,90,87,93,5,27,98,48,47,29,24,40,15,33,80,56,10,43,101,79,34,17,88,42,2,57,74,59,71,83,105,115,103,53,45,114,14,35,118,46,32,86,6,70,16,12,69,54,7,52,25,22,9,100,78,84,20,51,30,63,117,89,109,104,82,116,65,37,85,94,102,41,13,1,112,97,96,108,95,19,55,107,67,21,72,73,26,68,113,18,49,28,76,
