@@ -1,20 +1,29 @@
-Um die Fragenkataloge zu formatieren:
+Extrahieren der Wissensgebiete aus dem PDF:
+```
+pdftotext -f 4 -l 27 Fragenkatalog-SKS.pdf Fragenkatalog-SKS.Nav1.txt
+pdftotext -f 28 -l 53 Fragenkatalog-SKS.pdf Fragenkatalog-SKS.Schifffahrtsrecht.txt
+pdftotext -f 54 -l 74 Fragenkatalog-SKS.pdf Fragenkatalog-SKS.Wetterkunde.txt
+pdftotext -f 75 -l 112 Fragenkatalog-SKS.pdf Fragenkatalog-SKS.Seemannschaft1.txt
+pdftotext -f 113 -l 147 Fragenkatalog-SKS.pdf Fragenkatalog-SKS.Seemannschaft2.txt
+```
 
-sed -E 's/Nummer /Frage /g' -i Fragenkatalog-SKS.Navigation.txt
-sed -E 's/(Frage ([0-9]+):)/\1\n\Antwort \2:/g' -i Fragenkatalog-SKS.Navigation.txt
-
-sed -E 's/Nummer /Frage /g' -i Fragenkatalog-SKS.Schifffahrtsrecht.txt
-sed -E 's/(Frage ([0-9]+):)/\1\n\Antwort \2:/g' -i Fragenkatalog-SKS.Schifffahrtsrecht.txt
-
-sed -E 's/Nummer /Frage /g' -i Fragenkatalog-SKS.Seemannschaft1.txt
-sed -E 's/(Frage ([0-9]+):)/\1\n\Antwort \2:/g' -i Fragenkatalog-SKS.Seemannschaft1.txt
-
-sed -E 's/Nummer /Frage /g' -i Fragenkatalog-SKS.Seemannschaft2.txt
-sed -E 's/(Frage ([0-9]+):)/\1\n\Antwort \2:/g' -i Fragenkatalog-SKS.Seemannschaft2.txt
-
-sed -E 's/Nummer /Frage /g' -i Fragenkatalog-SKS.Wetterkunde.txt
-sed -E 's/(Frage ([0-9]+):)/\1\n\Antwort \2:/g' -i Fragenkatalog-SKS.Wetterkunde.txt
-
+Vorformatieren der Txt-Files:
+```
+ls Fragenkatalog-SKS.*.txt | while read F; do
+  sed -E 's/Nummer /Frage /g' -i $F
+  sed -E 's/(Frage ([0-9]+):)/\1\n\Antwort \2:/g' -i $F
+done
+```
 und dann eine Menge Handarbeit.
+
+Um die Prompts zu generieren:
+```
+ls Fragenkatalog-SKS.*.txt | while read F; do
+  cat Prompt.txt > "Prompt.${F}"
+  cat $F >> "Prompt.${F}"
+  echo -n '* Stelle mir die Fragen in dieser Reihenfolge: ' >> "Prompt.${F}"
+  grep -E '^Frage ' Prompt.Fragenkatalog-SKS.Navigation.txt | sed -E 's/Frage ([0-9]+):/\1/' | shuf | tr '\n' ',' >> "Prompt.${F}"
+done
+```
 
 TODO: Bilder fehlen noch

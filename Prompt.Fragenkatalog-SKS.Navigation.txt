@@ -1,0 +1,686 @@
+Du bist ein hilfreicher Tutor zur Vorbereitung auf die SKS Prüfung. Du stellst mir Fragen aus dem Fragenkatalog.
+* Denke sorgfältig und Schritt für Schritt.
+* Verwende ausschließlich Informationen aus dem angehängten Fragenkatalog.
+* Verwende keine externen Quellen.
+* Wähle zufällig eine Frage aus dem Fragenkatalog aus.
+* Stelle die Frage wörtlich und exakt wie im Fragenkatalog.
+* Stelle die Frage nur ein Mal und wiederhole dich nicht.
+* Stelle immer nur exakt eine Frage.
+* Stelle nur exakt die Frage, schreibe keinen einleitenden oder erklärenden Text.
+* Gib in Klammern die Nummer der Frage an.
+* Stelle sicher, dass die Nummer der Frage exakt zu der gestellten Frage passen.
+* Warte dann meine Antwort ab.
+* Bewerte meine Antwort anhand der Musterantwort aus dem Fragenkatalog.
+* Gib als Referenz die exakte Musterantwort an. Halluziniere keine Musterantwort.
+* Wenn ich eine Frage falsch beantworte oder die Antwort überhaupt nicht weiß, gib mir die Chance, dir Fragen zum Thema zu stellen und stelle diese Frage später nochmals.
+* Wenn ich eine Frage weitgehend oder vollkommen richtig beantworte, stelle direkt die nächste zufällig ausgewählte Frage.
+* Reagiere auf den Prompt "r" mit einer weiteren, zufällig ausgewählten Frage.
+* Merke dir, welche Fragen ich schon richtig beantwortet habe und stelle mir diese Fragen in der Sitzung kein zweites Mal.
+* Reagiere auf den Prompt "n" mit der nächsten Frage aus dem Katalog.
+* Reagiere auf einen Prompt, der nur einer Zahl besteht mit der entsprechenden Frage.
+Frage 1:
+Worauf müssen Sie als Schiffsführer vor Reiseantritt hinsichtlich der Seekarten und Seebücher achten?
+Antwort 1:
+Auf Vollständigkeit der Unterlagen und deren Berichtigung auf den neuesten Stand.
+
+Frage 2:
+Warum muss in der GPS-das jeweilige Kartendatum unbedingt berücksichtigt werden?
+Antwort 2:
+Weil sich das von GPS verwendete Bezugssystem WGS 84 (World Geodetic System 1984) von anderen verwendeten Bezugssystemen (Kartendatum) unterscheiden kann.
+
+Frage 3:
+Welche Differenzen können zwischen WGS 84 und anderen Bezugssystemen auftreten?
+Antwort 3:
+Die Differenzen von φ und λ liegen im Allgemeinen in der Größenordnung von 0,1 kbl bis 1 kbl, also etwa von 20 bis 200 m. Es können größere Unterschiede auftreten.
+
+Frage 4:
+Wo finden Sie in der Seekarte Angaben über das benutzte Bezugssystem und ggf. entsprechende Korrekturhinweise?
+Antwort 4:
+Am Kartenrand unter dem Titel.
+
+Frage 5:
+Wie lautet ggf. der Korrekturhinweis bezüglich GPS in der Seekarte, wenn das benutzte Kartendatum (z.B. ED 50) und WGS 84 nicht übereinstimmen?
+Antwort 5:
+Durch Satellitennavigation (z. B. GPS) erhaltene Positionen im WGS 84 sind 0, ... Minuten nordwärts/südwärts und 0, ... Minuten westwärts/ostwärts zu verlegen, um mit dieser Karte übereinzustimmen.
+
+Frage 6:
+Woran erkennen Sie, bis wann eine deutsche Seekarte "amtlich" berichtigt ist?
+Antwort 6:
+Am Berichtigungsstempel des BSH oder einer amtlichen Seekartenberichtigungsstelle.
+
+Frage 7:
+Woran erkennen Sie, bis wann eine britische Seekarte "amtlich" berichtigt ist?
+Antwort 7:
+Am Berichtigungsstempel auf der Rückseite der Seekarte.
+
+Frage 8:
+Was bedeutet der Stempel auf der britischen Seekarte: Corrected up to N.T.M. 3595 1998?
+Antwort 8:
+Seekarte ist berichtigt bis zur Mitteilung Frage 3595 der Admiralty Notices to Mariners (N.T.M.) in 1998.
+
+Frage 9:
+Welche Angaben enthalten die Nachrichten für Seefahrer (NfS)?
+Antwort 9:
+In den NfS werden für die sichere Schiffsführung wichtige Maßnahmen, Ereignisse und Veränderungen auf den Seeschifffahrtsstraßen, auf der Hohen See sowie in den Hoheitsgewässern anderer Staaten im europäischen und angrenzenden Bereich bekannt gegeben.
+
+Frage 10:
+In welcher Sprache werden die Nachrichten für Seefahrer (NfS) verfasst?
+Antwort 10:
+Die Angaben erfolgen in deutscher und in englischer Sprache.
+
+Frage 11:
+Welche Angaben enthalten deutsche und britische Leuchtfeuerverzeichnisse?
+Antwort 11:
+Beschreibung der Leuchtfeuer, Feuerschiffe und Großtonnen sowie deren geographische Lage.
+
+Frage 12:
+Welche schwimmenden Schifffahrtszeichen werden in der britischen List of Lights und in deutschen Leuchtfeuerverzeichnissen nicht angegeben?
+Antwort 12:
+Tonnen kleiner als 8 m Höhe.
+
+Frage 13:
+Wo finden Sie Angaben über die Merkmale der Schifffahrtszeichen?
+Antwort 13:
+1. In den Leuchtfeuerverzeichnissen bzw. in der List of Lights sowie auszugsweise in den Seekarten.
+2. In der Karte 1/INTInternational Hydrographic 1 des BSH.
+3. Schwimmende Schifffahrtszeichen zusätzlich in der Anlage I zur SeeSchStrO (z. B. Tonnen des Lateral- bzw. Kardinalsystems).
+
+Frage 14:
+Worauf beziehen sich die Höhenangaben der Leuchtfeuer in Leuchtfeuerverzeichnissen in der Nordund Ostsee?
+Antwort 14:
+In Gewässern mit Gezeiten (z. B. Nordsee) auf mittleres Hochwasser, in gezeitenlosen Gewässern (z. B. Ostsee) auf mittleren Wasserstand.
+
+Frage 15:
+Wo finden Sie Angaben über Brückensignale?
+Antwort 15:
+In den See- und Hafenhandbüchern und in den Seekarten.
+
+Frage 16:
+Welche Themen (Grobgliederung) enthalten die Seehandbücher des BSH?
+Antwort 16:
+1. Schifffahrtsangelegenheiten,
+2. Naturverhältnisse,
+3. Küstenkunde und Segelanweisungen.
+
+Frage 17:
+Wie werden Richtungsangaben in nautischen Veröffentlichungen gemacht?
+Antwort 17:
+1. Rechtweisend in Grad,
+2. im Uhrzeigersinn (rechtsherum) zählend.
+
+Frage 18:
+In welchem Quadranten liegt der rote Warnsektor eines Leitfeuers mit der Angabe rot 030°-042° (Begründung!)
+Antwort 18:
+Im Südwest-Quadranten. Angegeben sind die Peilungen zum Leuchtfeuer.
+
+Frage 19:
+Was sind Leitfeuer (direction lights)?
+Antwort 19:
+Leitfeuer sind Einzelfeuer, die durch Sektoren verschiedener Farbe oder Kennung (Leit- oder Warnsektoren) im Allgemeinen ein Fahrwasser, eine Hafeneinfahrt oder einen freien Seeraum zwischen Untiefen bezeichnen.
+
+Frage 20:
+1. Was sind Richtfeuer (leading lights)?
+2. Wann befindet man sich in einer Richtlinie eines Richtfeuers?
+Antwort 20:
+1. Richtfeuer sind Feuer, die als Unter- und Oberfeuer in Deckpeilung als Richtlinie beispielsweise einen Kurs im Fahrwasser, durch eine Hafeneinfahrt oder im freien Seeraum zwischen Untiefen bezeichnen.
+2. Ein Schiff befindet sich in der Richtlinie, wenn Unter- und Oberfeuer senkrecht unter-/übereinander erscheinen.
+
+Frage 21:
+Was ist ein Torfeuer?
+Antwort 21:
+Ein Torfeuer besteht aus zwei Feuern gleicher Höhe, gleicher Lichtstärke und gleicher Kennung, die zu beiden Seiten der
+Fahrwasserachse einander genau gegenüber (rechtwinklig zur Fahrwasserachse) und von der Fahrwasserachse gleich weit
+entfernt angeordnet sind.
+
+Frage 22:
+Was ist die "Tragweite" eines Feuers?
+Antwort 22:
+Unter Tragweite versteht man denjenigen Abstand, in dem ein Feuer einen eben noch deutlichen Lichteindruck im Auge des
+Beobachters hervorruft.
+
+Frage 23:
+Was ist die "Nenntragweite" eines Feuers?
+Antwort 23:
+Nenntragweite ist die Tragweite eines Feuers für einen definierten Wert bei einer meteorologischen Sichtweite am Tage von 10 sm.
+
+Frage 24:
+Wovon hängt die "Tragweite" eines Feuers ab?
+Antwort 24:
+Sie hängt u. a. ab
+1. von der Lichtstärke (Helligkeit) des Feuers und
+2. vom Sichtwert (Lichtdurchlässigkeit der Atmosphäre).
+
+Frage 25:
+In der Seekarte finden Sie bei einem Leuchtfeuer die Eintragung: 18 M. Was bedeutet diese Angabe?
+Antwort 25:
+Es ist die Nenntragweite, hier 18 Seemeilen.
+
+Frage 26:
+Was ist die "Sichtweite" eines Feuers? Wovon hängt sie ab?
+Antwort 26:
+Sichtweite ist die Entfernung, auf die ein Leuchtfeuer über die Erdkrümmung (Kimm) hinweg vom Beobachter gesehen werden kann.
+Sie hängt ab
+1. von der Feuerhöhe und
+2. von der Augeshöhe des Beobachters.
+
+Frage 27:
+Wie müssen sich Tragweite und Sichtweite zueinander verhalten, damit das Verfahren zur Ortsbestimmung "Feuer in der Kimm" angewandt werden kann?
+Antwort 27:
+Die Tragweite muss mindestens gleich der Sichtweite sein.
+
+Frage 28:
+Wo findet man Tabellen zur Ermittlung des Abstandes eines Feuers in der Kimm?
+Antwort 28:
+In deutschen und britischen Leuchtfeuerverzeichnissen.
+
+Frage 29:
+Wo sind die in Seekarten verwendeten Symbole und Abkürzungen erklärt?
+Antwort 29:
+In der Karte 1/INT des BSH.
+
+Frage 30:
+Wer veröffentlicht die Bekanntmachungen für Seefahrer (BfS) und was umfassen diese Veröffentlichungen?
+Antwort 30:
+1. Die BfS werden von den jeweils zuständigen Behörden der Wasser- und Schifffahrtsverwaltung des Bundes bzw. der Länder veröffentlicht.
+2. Sie enthalten alle wichtigen Maßnahmen und Ereignisse auf den Seeschifffahrtsstraßen und der ausschließlichen Wirtschaftszone Deutschlands.
+
+Frage 31:
+Wie werden die Bekanntmachungen für Seefahrer (BfS) der Sportschifffahrt zur Kenntnis gebracht?
+Antwort 31:
+Die BfS werden an den amtlichen Aushangstellen (z. B. bei Wasser- und Schifffahrtsämtern, Hafenverwaltungen, WSPDienststellen, Schleusen, Yachthäfen) für das betreffende Seegebiet, in dem die Aushangstelle liegt, und für die angrenzenden Reviere und Gebiete sowie im Internet unter www.elwis.de zur Kenntnis gebracht.
+
+Frage 32:
+Zählen Sie die am häufigsten vorkommenden Ereignisse und Maßnahmen auf, über die die Bekanntmachungen für Seefahrer (BfS) unterrichten.
+Antwort 32:
+1. Änderungen an Befeuerung, Betonnung und Landmarken,
+2. veränderte Wassertiefen,
+3. Wracke, Schifffahrtshindernisse, Rohrleitungen usw.,
+4. Bauarbeiten, Baggerarbeiten, militärische Übungen und damit zusammenhängende Sperrungen oder Behinderungen.
+
+Frage 33:
+Wer gibt die nautischen Warnnachrichten (NWN) heraus und von wem werden sie verbreitet?
+Antwort 33:
+Nautische Warnnachrichten (NWN) werden von den Verkehrszentralen für deren Zuständigkeitsbereich und von dem ständig besetzten Seewarndienst Emden für das gesamte deutsche Warngebiet zur Verbreitung über Funk herausgegeben. Der Rundfunksender Deutschlandfunk verbreitet alle über Funk abgegebenen NWN.
+
+Frage 34:
+Was bedeutet der Zusatz "vital" bei einer nautischen Warnnachricht (NWN)?
+Antwort 34:
+Die NWN erhält den Zusatz "vital", wenn die Warnung auf eine lebensbedrohende Gefahr hinweist.
+
+Frage 35:
+Welche Besonderheit bezüglich des Zusatzes "vital" bei einer nautischen Warnnachricht (NWN) gibt es für die Sportschifffahrt?
+Antwort 35:
+Vitale nautische Warnnachrichten für die Sportschifffahrt werden während der Zeit vom 1. April bis zum 31. Oktober zur Verbreitung über ausgewählte private und öffentlich-rechtliche Rundfunkanstalten weitergeleitet.
+
+Frage 36:
+Wer gibt die Nachrichten für Seefahrer (NfS) heraus und wie und wie oft erfolgt die Herausgabe?
+Antwort 36:
+Die NfS werden vom BSH in Heftform und im Internet herausgegeben und erscheinen einmal wöchentlich.
+
+Frage 37:
+Welche Unterlage steht Ihnen zur Verfügung zur Berichtigung von britischen Seekarten, die nicht von den NfS erfasst werden?
+Antwort 37:
+Die britischen Notices to Mariners.
+
+Frage 38:
+1. Was sind P-Nachrichten?
+2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)
+Antwort 38:
+1. P-Nachrichten sind solche, die eine bevorstehende (preliminary) Maßnahme ankündigen.
+2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von P-Nachrichten vom BSH bzw. von amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen P-Nachrichten erfasst und in der Karte vermerkt werden.
+
+Frage 39:
+1. Was sind T-Nachrichten?
+2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)
+Antwort 39:
+1. T-Nachrichten sind solche, die über einen zeitweiligen (temporary) Zustand unterrichten.
+2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von T-Nachrichten vom BSH bzw. amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen T-Nachrichten erfasst und in der Karte vermerkt werden.
+
+Frage 40:
+Worauf muss beim Ansteuern einer Küste bei der Auswahl von Seekarten geachtet werden? Begründen Sie Ihre Antwort.
+Antwort 40:
+Seekarten mit größtmöglichem Maßstab verwenden. Nur in diesen Karten sind alle Schifffahrtszeichen und weitere für die wichtigen Informationen eingetragen.
+
+Frage 41:
+Was müssen Sie bei Kursberechnungen hinsichtlich der in der Seekarte angegebenen Ortsmissweisungen beachten?
+Antwort 41:
+Die für ein bestimmtes Jahr angegebene Missweisung muss mittels der in der Seekarte angegebenen jährlichen Änderung für das aktuelle Jahr berichtigt werden.
+
+Frage 42:
+Was müssen Sie bei der Benutzung von deutschen "Sportbootkarten" beachten?
+Antwort 42:
+Sie werden nach dem Druck weder vom BSH noch von den Seekartenvertriebsstellen berichtigt. Sie müssen also vom Nutzer nach dem Kauf vor Benutzung über die NfS auf den aktuellen Stand berichtigt werden.
+
+Frage 43:
+Nach welcher Faustregel können Sie m/s in Knoten umrechnen?
+Antwort 43:
+"Doppelt so viele Knoten (kn) wie m/s" oder "m/s multipliziert mit 2 = kn".
+
+Frage 44:
+Was müssen Sie beachten, wenn Sie die mit Loggen ermittelte Fahrt z. B. für das Arbeiten in Seekarten berücksichtigen wollen?
+Antwort 44:
+Die üblichen Logmethoden liefern ausschließlich die "Fahrt durchs Wasser (FdW)". Um die "Fahrt über Grund (FüG)" zu ermitteln, müssen Stromrichtung und Stromgeschwindigkeit berücksichtigt werden.
+
+Frage 45:
+Welche Fahrt zeigen GPS-Geräte an?
+Antwort 45:
+Die Fahrt über Grund (FüG).
+
+Frage 46:
+Welchen Kurs zeigen GPS-Geräte an?
+Antwort 46:
+Den Kurs über Grund (KüG).
+
+Frage 47:
+Warum müssen Sie Ihre Position regelmäßig in die Seekarte eintragen?
+Antwort 47:
+Um Abweichungen von der Kurslinie frühzeitig und sicher zu erkennen und um ggf. den Kurs zu berichtigen.
+
+Frage 48:
+Was ist die Besteckversetzung (BV)?
+Antwort 48:
+Richtung (rw) und Entfernung (in sm) vom Koppelort (Ok) zum beobachteten Ort (Ob), bezogen auf den gleichen Zeitpunkt.
+
+Frage 49:
+Welche Ursachen kann die Besteckversetzung (BV) haben?
+Antwort 49:
+Die BV kann folgende Ursachen haben:
+1. ungenaues Steuern und Koppeln,
+2. Kursfehler (z. B. ungenaue Steuertafel) und
+3. fehlende oder unvollständige Berücksichtigung von Strom und Wind.
+
+Frage 50:
+Warum sollte der Winkel zwischen zwei Peilungen nicht kleiner als 30° und nicht größer als 150° sein?
+Antwort 50:
+Damit der gefundene Standort eine ausreichend sichere Positionsbestimmung ergibt.
+
+Frage 51:
+Warum sind regelmäßige Kompasskontrollen erforderlich?
+Antwort 51:
+Zur Überprüfung der Funktionsfähigkeit des Kompasses und der Werte in der Ablenkungstabelle.
+
+Frage 52:
+Wodurch können auch in gezeitenlosen Revieren erhebliche Wasserstandsschwankungen und Strömungen (z. B. Triftstrom) hervorgerufen werden?
+Antwort 52:
+Durch Stärke, Dauer und Richtung des Windes oder "Zurückschwappen" aufgestauter Wassermassen (z. B. Ostsee).
+
+Frage 53:
+Welche navigatorischen Vorbereitungen treffen Sie vor einer Fahrt in Dunkelheit?
+Antwort 53:
+1. Kurse und Kursänderungspunkte möglichst vorausbestimmen,
+2. Untiefen und Hindernisse in der Karte besonders kennzeichnen,
+3. in der Seekarte markieren, welche Leuchtfeuer wann und wo in der Kimm erscheinen und
+4. Wegstrecke nach unbefeuerten Tonnen absuchen.
+
+Frage 54:
+Welche Möglichkeiten der terrestrischen Ortsbestimmung muss man kennen?
+Antwort 54:
+1. Kreuzpeilung,
+2. Peilung und Abstand (Feuer in der Kimm, Radarabstand),
+3. Peilung und Lotung.
+
+Frage 55:
+Nennen Sie zwei Möglichkeiten der Ortsbestimmung, wenn Sie nur ein Objekt mit bekannten Merkmalen (z. B. Leuchtturm) in Sicht haben.
+Antwort 55:
+1. Peilung und Abstand (Feuer in der Kimm, Radarabstand),
+2. Peilung und Lotung.
+
+Frage 56:
+Welche Nordrichtungen werden in der unterschieden? Erläutern Sie diese kurz.
+Antwort 56:
+1. rwN: rechtweisend Nord ist die Richtung eines Meridians zum geographischen Nordpol.
+2. mwN: missweisend Nord ist die Richtung des erdmagnetischen Feldes zum magnetischen Nordpol, abhängig von Schiffsort und Datum (Jahr). In diese Richtung stellt sich eine ungestörte Magnet-(Kompass-)nadel ein.
+3. MgN: ist die Richtung zu Magnetkompass-Nord. In diese Richtung zeigt die durch das schiffsmagnetische Feld beeinflusste Kompassnadel an Bord.
+
+Frage 57:
+Nennen Sie die Winkel zwischen den Nordrichtungen rechtweisend Nord (rwN), missweisend Nord (mwN) und Magnetkompass-Nord (MgN).
+Antwort 57:
+1. Mw: Missweisung ist der Winkel von rwN nach mwN.
+2. Abl: Ablenkung (Abl) oder Deviation (Dev) ist der Winkel von mwN nach MgN.
+
+Frage 58:
+Nennen Sie den Winkel zwischen den Nordrichtungen rwN und MgN.
+Antwort 58:
+Der Winkel von rwN nach MgN ist die Fehlweisung (Fw; Abl + Mw = Fw).
+
+Frage 59:
+Wo finden Sie die erforderlichen Werte der Missweisung? Worauf ist dabei zu achten?
+Antwort 59:
+1. Die Missweisung findet sich in der Seekarte eingedruckt für ein bestimmtes Jahr.
+2. Dieser Wert muss mit der ebenfalls in der Seekarte angegebenen jährlichen Änderung auf das Jahr der Benutzung berichtigt werden.
+
+Frage 60:
+Wo finden Sie die erforderlichen Werte der Ablenkung (Abl)? Worauf ist dabei zu achten?
+Antwort 60:
+1. Die Abl wird einer Ablenkungstabelle entnommen.
+2. Die Abl ist abhängig vom anliegenden Kurs.
+
+Frage 61:
+Warum muss für jedes Fahrzeug eine eigene Ablenkungstabelle (Steuertafel) erstellt werden?
+Antwort 61:
+Die Ablenkungstabelle kann auf jedem Schiff andere Werte haben.
+
+Frage 62:
+Worauf müssen Sie achten, wenn eine Magnetkompasspeilung (MgP) auf eine rechtweisende Peilung (rwP) beschickt werden soll?
+Antwort 62:
+Abl für den anliegenden MgK (Magnetkompasskurs) aus der Steuertafel (Ablenkungstabelle) entnehmen; an den so erhaltenen mwK (missweisenden Kurs) die für das laufende Jahr der Seekarte entnommene Mw anbringen.
+
+Frage 63:
+Unter welchen Voraussetzungen ergibt sich eine brauchbare Standlinie aus einer Lotung?
+Antwort 63:
+Der Meeresgrund muss ausreichend regelmäßig und ausreichend steil ansteigen/abfallen.
+
+Frage 64:
+Neben den Fahrwassertonnen liegen auf den Seeschifffahrtsstraßen weitere Tonnen aus, die für die Sportschifffahrt besonders wichtig sind. Welche Schifffahrtszeichen sind das?
+Antwort 64:
+Sonderzeichen zur Bezeichnung von Sperrgebieten und Kardinalzeichen für allgemeine Gefahrenstellen.
+
+Frage 65:
+Aus welchen nautischen Publikationen können Sie Sperr- und Verbotsgebiete mit ihren Grenzen ersehen?
+Antwort 65:
+Aus den Seekarten, Bekanntmachungen für Seefahrer (BfS) und Nautischen Warnnachrichten (NWN).
+
+Frage 66:
+Welche Sonderzeichen kennzeichnen Reeden, besondere Gebiete oder Stellen, z. B. Warngebiete?
+Antwort 66:
+Gelbe Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen.
+
+Frage 67:
+Welche Sonderzeichen kennzeichnen Sperrgebiete?
+Antwort 67:
+Gelbe Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen mit einem breiten roten Band. Beschriftung auf Fasstonne oder Leuchttonne mit schwarzen Buchstaben: "Sperrgebiet" oder "Sperr-G".
+
+Frage 68:
+Welche Farbe haben Feuer auf Sonderzeichen, wenn vorhanden?
+Antwort 68:
+Farbe gelb.
+
+Frage 69:
+Was bedeutet das Ausliegen der folgenden Schifffahrtszeichen: weiße Fasstonne, Kugeltonne oder Stange mit einem - von oben gesehen - rechtwinkligen gelben Kreuz bzw. bei Stangen mit einem breiten gelben Band?
+Antwort 69:
+Fahrverbot für Maschinenfahrzeuge und Wassermotorräder auf wegen Badebetrieb gesperrten Wasserflächen.
+
+Frage 70:
+Wie stehen Sonne und Mond winkelmäßig zur Erde bei Springzeit und bei Nippzeit (die Springverspätung soll hier unberücksichtigt bleiben)?
+Antwort 70:
+Bei Springzeit befinden sich Mond und Sonne in einer Ebene mit der Erde, bei Nippzeit stehen die Verbindungslinien Erde/Sonne und Erde/Mond im rechten Winkel zueinander.
+
+Frage 71:
+Erklären Sie den Begriff "Alter der Gezeit".
+Antwort 71:
+Das Alter der Gezeit gibt an, in welcher Phase (Nippzeit, Mittzeit, Springzeit) sich das aktuelle Tidengeschehen befindet.
+
+Frage 72:
+Warum findet man z. B. bei Bezugsorten in der Nordsee bzw. im Englischen Kanal zeitweise nur ein Hoch- bzw. Niedrigwasser pro Tag?
+Antwort 72:
+Die Umlaufzeit des Mondes um die Erde dauert im Mittel 24 h 50 min. (Mondtag) gegenüber dem Sonnentag (= 24 h). Deshalb "rutscht" das letzte HW oder NW zeitweise in den nächsten Tag.
+
+Frage 73:
+Weshalb und wie können die tatsächlichen Wasserstände von den Angaben in den Gezeitentafeln teilweise erheblich abweichen?
+Antwort 73:
+Durch Wind und/oder durch sehr hohen bzw. sehr niedrigen Luftdruck können erhebliche Wasserstandsänderungen entstehen. HWH bzw. NWH können höher oder niedriger sein als angegeben, die Hoch- und Niedrigwasserzeit kann füher oder später eintreten als angegeben.
+
+Frage 74:
+Worauf beziehen sich die Tiefenangaben in Seekarten in den deutschen Gewässern der Ost- und Nordsee?
+Antwort 74:
+Auf Kartennull (KN).
+
+Frage 75:
+Antwort 75:
+Was ist Kartennull?
+Kartennull (KN) ist die Bezugsfläche für die Tiefenangaben in einer Seekarte.
+
+Frage 76:
+Wie ist Kartennull (KN) in der Ost- und Nordsee und im Englischen Kanal definiert? Wo finden Sie die entsprechenden Angaben zur Kartennullebene?
+Antwort 76:
+In der Ostsee entspricht KN dem mittleren Wasserstand. In der Nordsee und im Englischen Kanal entspricht KN dem niedrigstmöglichen Gezeitenwasserstand (LAT = Lowest Astronomical Tide). In der jeweiligen Seekarte ist die Kartennullebene beschrieben.
+
+Frage 77:
+Was müssen Sie bedenken, wenn Sie die Wassertiefe außerhalb der Niedrigwasserzeit loten?
+Antwort 77:
+Beim folgenden Niedrigwasser wird die Wassertiefe geringer sein als zum Zeitpunkt der Lotung.
+
+Frage 78:
+Was ist die Kartentiefe?
+Antwort 78:
+Die Kartentiefe (KT) ist die auf Kartennull bezogene Wassertiefe. Kartentiefe ist Wassertiefe abzüglich Höhe der Gezeit.
+
+Frage 79:
+Mit welcher Wassertiefe können Sie bei einer Lotung normalerweise mindestens rechnen?
+Antwort 79:
+Mit der Kartentiefe.
+
+Frage 80:
+Welche Bedeutung hat die Angabe "Springzeit" für die Wasserstände in Gezeitengebieten?
+Antwort 80:
+Zur Springzeit sind besonders hohe Hochwasser und besonders niedrige Niedrigwasser zu erwarten.
+
+Frage 81:
+Welche Bedeutung hat die Angabe "Nippzeit" für die Wasserstände in Gezeitengebieten?
+Antwort 81:
+Zur Nippzeit sind besonders niedrige Hochwasser und besonders hohe Niedrigwasser zu erwarten.
+
+Frage 82:
+Welche Bedeutung haben die Angaben "Nippzeit" bzw. "Springzeit" für die Gezeitenströme?
+Antwort 82:
+Zur Springzeit setzen die Gezeitenströme z. T. deutlich stärker als zur Nippzeit.
+
+Frage 83:
+Wo können Sie Informationen über Gezeitenströme in Küstengewässern finden?
+Antwort 83:
+1. In Gezeitenstromatlanten, Seehandbüchern,
+2. in Seekarten aus Gezeitenstromtabellen, die bezogen sind auf die Hochwasserzeiten des dort genannten Bezugsortes.
+
+Frage 84:
+Auf einer Seekarte finden Sie in Küstennähe die Tiefenangabe 23. Was bedeutet das?
+Antwort 84:
+Der Ort der Zahl liegt 2,3 m über Kartennull und kann trockenfallen.
+
+Frage 85:
+In welchem Zusammenhang stehen Kartentiefe (KT), Wassertiefe (WT) und Höhe der Gezeit (H)?
+Antwort 85:
+WT - H = KT oder KT + H = WT (Lösung auch als Skizze möglich).
+
+Frage 86:
+Warum ist es in Tidengewässern wichtig, die Uhrzeit einer Lotung festzuhalten?
+Antwort 86:
+Um anhand der Gezeitentafel feststellen zu können, ob das Wasser steigt oder fällt.
+
+Frage 87:
+Was ist ein Pegel?
+Antwort 87:
+Eine Skala zur Anzeige des Wasserstandes.
+
+Frage 88:
+Welchen Einfluss kann der Wind auf die Gezeiten haben?
+Antwort 88:
+Der Wind kann Strömungen und Wasserstandsänderungen hervorrufen, die zu den Gezeitenströmen und den Gezeiten hinzutreten.
+
+Frage 89:
+Nennen Sie drei wichtige Vorzüge von GPS.
+Antwort 89:
+1. GPS arbeitet weltweit.
+2. Die Positionsanzeige ist jederzeit verfügbar.
+3. Der Positionsfehler ist gering.
+
+Frage 90:
+Wie groß ist die typische und realistische Genauigkeit von Positionen, die mit GPS und DGPS ermittelt werden?
+Antwort 90:
+1. GPS: 10 - 20 m bei einer Wahrscheinlichkeit von etwa 95 %.
+2. DGPS: 1 - 10 m bei einer Wahrscheinlichkeit von etwa 95 %.
+
+Frage 91:
+Wo muss man mit ungenauen Anzeigen des GPS rechnen?
+Antwort 91:
+1. Bei Abschattung der GPS-Antenne.
+2. In der Nähe von Flughäfen und in der Nähe von Fernsehsendern.
+3. In der Nähe von Marineeinrichtungen.
+4. Bei Nutzung von UKW-Geräten und anderen elektronischen/elektrischen Geräten an Bord.
+
+Frage 92:
+Was bedeutet die Abkürzung GPS?
+Antwort 92:
+Global Positioning System.
+
+Frage 93:
+Was ist das Grundprinzip von GPS?
+Antwort 93:
+Durch Laufzeitmessungen von GPS-Signalen vom Satelliten zum Empfänger und damit durch Abstandsmessungen zu den
+Satelliten wird die Ortsbestimmung ermöglicht.
+
+Frage 94:
+Was bedeutet die Abkürzung DGPS und nach welchem Prinzip arbeitet DGPS?
+Antwort 94:
+DGPS = Differential Global Positioning System. Hierbei handelt es sich um eine regionale Verbesserung der Ortsbestimmung. Dabei werden von Referenzstationen über Funk Korrekturwerte für die GPS-Messwerte an die Schiffe übertragen.
+
+Frage 95:
+Was ist bei Anbringung einer GPS-Antenne zu beachten?
+Antwort 95:
+1. Sie muss ringsum freie Sicht (ohne Abschattungen) haben.
+2. Einwandfreie Erdung.
+
+Frage 96:
+Was bewirkt die Bedienung der MOB-Taste bei GPS-Geräten?
+Antwort 96:
+1. Die Position zur Zeit des Tastendrucks wird gespeichert.
+2. Rechtweisende Peilung (rwP) und Distanz zu diesem Punkt werden angezeigt.
+
+Frage 97:
+Was bedeutet die Aussage: "Die Ortsgenauigkeit beträgt 100 m mit einer Wahrscheinlichkeit von 95 %"?
+Antwort 97:
+Das Schiff befindet sich mit einer Wahrscheinlichkeit von 95 % in einem Fehlerkreis von 100 m Radius um den beobachteten Ort. Also: jede 20. Ortsbestimmung (5 %) ist ungenauer als ca. 100 m.
+
+Frage 98:
+Wie kann man feststellen, ob die GPS-Position genau bzw. zuverlässig ist?
+Antwort 98:
+1. Durch den vom Empfänger angezeigten HDOP (horizontal dilution of precision = Satellitenverteilung).
+2. Durch die vom Empfänger angezeigte Anzahl der getrackten Satelliten.
+3. Durch Vergleich mit anderen Navigationssystemen und der Koppelposition.
+
+Frage 99:
+Was ist bei Eintragung eines GPS-Ortes in eine Seekarte zu beachten?
+Antwort 99:
+Das Bezugssystem muss übereinstimmen. Dieses kann geschehen durch:
+1. Auswahl und Einstellung des Kartenbezugssystems im Empfänger.
+2. Manuelle Verschiebung des GPS-Ortes um die in der Seekarte angegebenen N/S- und E/W-Korrektur.
+3. Verwendung von Seekarten, die auf dem System WGS 84 beruhen.
+
+Frage 100:
+Was ist ein Wegpunkt?
+Antwort 100:
+Geographische Koordination eines anzusteuernden Punktes.
+
+Frage 101:
+Was bedeutet WGS 84 und was wird damit erreicht?
+Antwort 101:
+1. Globales Bezugssystem "World Geodetic System 1984".
+2. Mit diesem System (= Referenzellipsoid bei GPS) wird weltweit eine optimale Anpassung an die reale Form des gesamten Erdkörpers erreicht.
+
+Frage 102:
+Wodurch können Radarechos von kleinen Fahrzeugen und Tonnen auf den Sichtschirmen von Radargeräten "verschwinden"?
+Antwort 102:
+1. Durch Seegang und/oder Niederschlag,
+2. durch falsche Bedienung,
+3. durch zu große Entfernung,
+4. durch Gieren des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up).
+
+Frage 103:
+Wie kann man mit Radar den eigenen Schiffsort bestimmen?
+Antwort 103:
+1. Peilung des Objektes gibt einen Peilstrahl als Standlinie.
+2. Abstandsmessung mit dem VRM (Variable Range Marker) gibt einen Abstandskreis als Standlinie.
+
+Frage 104:
+Wie kann man gegebenenfalls verhindern, dass sich Echoanzeigen von Zielen (z. B. 2 Tonnen, 2 Molenköpfe) überlappen?
+Antwort 104:
+1. Kurze Impulslänge wählen.
+2. Messbereich verkleinern.
+
+Frage 105:
+Was bedeutet der Begriff AIS auf See?
+Antwort 105:
+AIS bezeichnet das automatische Identifizierungssystem (Automatic Identification System).
+
+Frage 106:
+Welche Aufgaben hat AIS?
+Antwort 106:
+Alle ausgerüsteten Schiffe senden automatisch (also ohne Aufforderung und menschliches Eingreifen) in regelmäßigen kurzen Abständen ihre Identität und einen schiffsbezogenen Datensatz. Außerdem können bei Bedarf sicherheitsrelevante Nachrichten ("safety related messages") von Bord oder von Landstationen gesendet werden.
+
+Frage 107:
+Welche Reichweite hat ein AIS-Bordgerät und wovon ist sie abhängig?
+Antwort 107:
+Die Reichweite und Ausbreitungsbedingungen entsprechen denen von UKW. Bei Handelsschiffen kann man von 20 bis 30 sm ausgehen. Die Reichweite ist abhängig von der Antennenhöhe.
+
+Frage 108:
+Wie kann die Reichweite eines AIS-Bordgerätes landseitig erhöht werden und wie wirken sich dabei Hindernisse (z. B. Berge) aus?
+Antwort 108:
+Unter bestimmten Umständen kann die Reichweite heraufgesetzt werden (z. B. mit Hilfe von "Relaisstationen"), wobei ggf. auch abschattende Hindernisse umgangen werden können.
+
+Frage 109:
+Welche AIS-Daten werden von Schiffen aus der Berufsschifffahrt gesendet?
+Antwort 109:
+Statische Daten: ID, Rufzeichen, Länge und Breite des Schiffes u. a.
+Dynamische Daten (i. W. Sensordaten): UTC, Position, Heading, Kurs und Fahrt über Grund, ggf. Rate-of-turn, Fahrtstatus (z. B. Maschinenfahrzeug mit Fahrt durchs Wasser, Ankerlieger, manövrierbehindertes Fahrzeug).
+Reisebezogene Daten: Tiefgang, Zielort (Destinaton), ETA u. a.
+
+Frage 110:
+Wann kann man sich auf die Verfügbarkeit und Anzeige vn AIS-Signalen anderer Fahrzeuge verlassen? Nennen Sie die wesentlichen Voraussetzungen!
+Antwort 110:
+Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d. h., wenn
+1. das Fahrzeug mit AIS ausgerüstet ist,
+2. das sendende Fahrzeug AIS nicht abgeschaltet hat (darf der Kapitän allerdings nur bei bestimmten zwingenden Gründen),
+3. GPS aktiv ist und
+4. aus Kapazitätsgründen (z. B. durch zu viele Schiffe in einem Seegebiet = "target overflow") keine Fahrzeuge ausgeschlossen werden.
+
+Frage 111:
+Wie ist die Genauigkeit von AIS-Daten zu beurteilen (Position und manuell eingegebene Daten)?
+Antwort 111:
+Position: Mit AIS wird zusätzlich zur GPS-Position eines Schiffes die Information übertragen, ob es sich um einen GPS- oder DGPSOrt handelt. Ist die GPS-Position eines Schiffes falsch, wird diese falsche Position auf allen anderen Schiffen angezeigt.
+Manuell eingegebene Daten: Es muss damit gerechnet werden, dass Zielort, Tiefgang, Fahrtstatus u. a. falsch sind, wenn sie - z. B. aus Nachlässigkeit nicht von der Schiffsführung aufdatiert werden.
+
+Frage 112:
+Welche besondere Bedeutung hat AIS für die Sportschifffahrt im Vergleich mit der Radaranzeige auf anderen Schiffen?
+Antwort 112:
+Sportfahrzeuge werden häufig auf den Radargeräten anderer Schiffe nicht sicher angezeigt bzw. die Anzeigen gehen im Seegangsclutter oder in der Informationsfülle unter. Da jetzt auf vielen Schiffen die AIS-Daten zusätzlich im Radar dargestellt werden, besteht die Gefahr, dass Sportfahrzeuge noch weniger auffällig sind, wenn sie nicht selbst mit AIS ausgerüstet sind.
+
+Frage 113:
+Welche Navigationsgeräte sollten Sie auf einer Yacht auch bei Kurzfahrten nahe der Küste mindestens an Bord haben?
+Antwort 113:
+Steuerkompass, Peilkompass, Lot, Log, Uhr.
+
+Frage 114:
+Was gehört zur navigatorischen Mindestausrüstung einer Yacht in Küstengewässern? Nennen Sie mindestens 6 Beispiele.
+Antwort 114:
+1. Steuerkompass,
+2. Peileinrichtung,
+3. terrestrisches oder satellitengestütztes Funknavigationsgerät,
+4. Log,
+5. Lot,
+6. Fernglas,
+7. Barometer,
+8. Weltempfänger für Rundfunk,
+9. Seebücher und auf den neuesten Stand berichtigte Seekarten für das zu befahrende Seegebiet,
+10. Logbuch,
+11. Uhr/Zeitmesser.
+
+Frage 115:
+Welchen Vorteil hat ein Kugelkompass gegenüber einem Fernglaskompass?
+Antwort 115:
+1. Der Kugelkompass kann auch bei größerer Krängung noch als Messinstrument benutzt werden.
+2. Die Kugelform verbessert die Ablesbarkeit der Kompassrose (Vergrößerungseffekt).
+
+Frage 116:
+Was beeinflusst die Ablenkung eines Kompasses dauerhaft?
+Antwort 116:
+Veränderung des magnetischen Zustandes an Bord, z. B. Einbauten und Lageänderung von Ausrüstungsgegenständen.
+
+Frage 117:
+Was beeinflusst die Ablenkung eines Kompasses vorübergehend?
+Antwort 117:
+Elektronische Geräte (z. B. Radio, Handy), magnetisierte Gegenstände (z. B. Werkzeug, Peilkompass) und Gleichstromleitungen in der Nähe des Kompasses.
+
+Frage 118:
+Welchen Abstand muss magnetisierbares Material vom Magnetkompass haben?
+Antwort 118:
+Mindestens 1 Meter.
+* Stelle mir die Fragen in dieser Reihenfolge: 19,109,48,91,86,78,93,69,54,39,102,104,34,97,94,60,9,50,58,53,118,52,115,59,72,89,42,61,107,17,100,66,26,11,74,83,15,3,10,71,81,77,37,68,31,106,8,38,114,21,103,4,41,25,101,43,111,30,22,32,92,2,67,96,18,80,64,47,14,36,113,70,1,108,44,46,116,40,65,6,20,87,13,57,117,16,12,110,24,84,27,35,55,105,51,62,79,75,56,5,88,90,85,82,23,33,98,99,28,29,112,45,95,49,63,73,7,76,

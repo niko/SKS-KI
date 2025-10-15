@@ -1,0 +1,622 @@
+Du bist ein hilfreicher Tutor zur Vorbereitung auf die SKS Prüfung. Du stellst mir Fragen aus dem Fragenkatalog.
+* Denke sorgfältig und Schritt für Schritt.
+* Verwende ausschließlich Informationen aus dem angehängten Fragenkatalog.
+* Verwende keine externen Quellen.
+* Wähle zufällig eine Frage aus dem Fragenkatalog aus.
+* Stelle die Frage wörtlich und exakt wie im Fragenkatalog.
+* Stelle die Frage nur ein Mal und wiederhole dich nicht.
+* Stelle immer nur exakt eine Frage.
+* Stelle nur exakt die Frage, schreibe keinen einleitenden oder erklärenden Text.
+* Gib in Klammern die Nummer der Frage an.
+* Stelle sicher, dass die Nummer der Frage exakt zu der gestellten Frage passen.
+* Warte dann meine Antwort ab.
+* Bewerte meine Antwort anhand der Musterantwort aus dem Fragenkatalog.
+* Gib als Referenz die exakte Musterantwort an. Halluziniere keine Musterantwort.
+* Wenn ich eine Frage falsch beantworte oder die Antwort überhaupt nicht weiß, gib mir die Chance, dir Fragen zum Thema zu stellen und stelle diese Frage später nochmals.
+* Wenn ich eine Frage weitgehend oder vollkommen richtig beantworte, stelle direkt die nächste zufällig ausgewählte Frage.
+* Reagiere auf den Prompt "r" mit einer weiteren, zufällig ausgewählten Frage.
+* Merke dir, welche Fragen ich schon richtig beantwortet habe und stelle mir diese Fragen in der Sitzung kein zweites Mal.
+* Reagiere auf den Prompt "n" mit der nächsten Frage aus dem Katalog.
+* Reagiere auf einen Prompt, der nur einer Zahl besteht mit der entsprechenden Frage.
+Frage 1:
+Was ist Wind und wie entsteht er?
+Antwort 1:
+Wind ist bewegte Luft. Die Bewegung entsteht durch die Druckunterschiede zwischen Hoch- und Tiefdruckgebieten.
+
+Frage 2:
+Was ist der Taupunkt?
+Antwort 2:
+Der Taupunkt ist die Temperatur, auf die Luft abgekühlt werden muss, damit sie mit Feuchtigkeit gesättigt ist. Es setzt Kondensation (Taubildung) ein.
+
+Frage 3:
+In welcher Größe wird in der Schifffahrt die Luftfeuchtigkeit allgemein angegeben?
+Antwort 3:
+Relative Feuchtigkeit in Prozent.
+
+Frage 4:
+Nennen Sie mindestens 6 Parameter, aus denen sich eine Wetterbeobachtung an Bord zusammensetzt.
+Antwort 4:
+Windrichtung, Windstärke, Luftdruck, aktuelles Wetter, Bedeckungsgrad, Wolken, Seegang, Strom, Temperatur und ggf. Luftfeuchte.
+
+Frage 5:
+1. In welcher Maßeinheit wird die Windstärke angegeben?
+2. In welchen Maßeinheiten wird die Windgeschwindigkeit angegeben?
+Antwort 5:
+1. Nach der Beaufortskala (Bft).
+2. In kn, m/s und km/h.
+
+Frage 6:
+1. Wie heißen die Linien gleichen Luftdrucks?
+2. In welcher Maßeinheit wird der Luftdruck angegeben?
+Antwort 6:
+1. Isobaren.
+2. Hektopascal (hPa) oder vereinzelt auch noch Millibar (mb, teilweise auch mbar).
+
+Frage 7:
+Welche Gefahren kann ein Gewitter mit sich bringen?
+Antwort 7:
+1. Böen bis Orkanstärke,
+2. plötzliche Winddrehungen,
+3. Regen- oder Hagelschauer mit zum Teil starker Sichtminderung,
+4. Blitzschlag.
+
+Frage 8:
+Wann entstehen besonders starke Gewitter?
+Antwort 8:
+Besonders zum Ende einer hochsommerlichen Schönwetterperiode im Zusammenhang mit Kaltfronten.
+
+Frage 9:
+Welche Skala wird verwendet für die Angabe der Windrichtung in Seewetterberichten bei
+1. den Vorhersagen und Aussichten,
+2. den Stationsmeldungen?
+Antwort 9:
+1. Die 8-teilige mit Auflösung in 45°-Stufen.
+2. Die 16-teilige mit Auflösung in 22,5°-Stufen.
+
+Frage 10:
+Ab welcher Windstärke werden Orkanwarnungen ausgegeben?
+Antwort 10:
+Ab Windstärke 10 Bft, erfahrungsgemäß mit Böen über Bft 12.
+
+Frage 11:
+1. Welche Skala wird für die Schätzung der Windstärke verwendet?
+2. Was verstehen Sie unter mäßigem Wind, was unter Starkwind?
+Antwort 11:
+1. Die 12-teilige Beaufortskala.
+2. Mäßiger Wind bedeutet Stärke 4 der Beaufortskala, Starkwind 6 und 7 Beaufort.
+
+Frage 12:
+Antwort 12:
+
+Welche amtlichen Veröffentlichungen enthalten Sendezeiten und Frequenzen für Seewetterberichte
+1. für Europa,
+2. Europa und weltweit?
+
+1. Das "Handbuch Nautischer Funkdienst" und der "Jachtfunkdienst".
+2. Die "Admiralty List of Radio Signals".
+
+Frage 13:
+Nennen Sie 6 Möglichkeiten, um Wetterinformationen an Bord zu erhalten.
+Antwort 13:
+Hörfunksender (UKW, KW, MW, LW), Küstenfunkstellen, Verkehrszentralen, NAVTEX, SafetyNet (Satcom), Online-Dienste (z. B. SEEWIS-Online des Deutschen Wetterdienstes, T-Online), RTTY (Funkfernschreiben), Faskimile (Wetterfax), Faxpolling (z. B. SEEWIS-Fax des Deutschen Wetterdienstes), Telefonabruf, Törnberatung.
+
+Frage 14:
+Welche Bedeutung für die Wetterentwicklung hat ein Halo um die Sonne und ein Hof um den Mond?
+Antwort 14:
+Wolkenaufzug, meist Cirrostratus. Ggf. Niederschlag und Wetterverschlechterung.
+
+Frage 15:
+Bei welchen Wolkenformen müssen Sie mit erhöhter Böigkeit rechnen?
+Antwort 15:
+Bei Haufenwolken, besonders beim Cumulonimbus (Schauer- und Gewitterwolke).
+
+Frage 16:
+1. Welche Formen von Wolken gibt es?
+2. Nennen Sie 6 der 10 Haupttypen!
+Antwort 16:
+1. Es gibt Haufenwolken und Schichtwolken.
+2. Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.
+
+Frage 17:
+1. Welche Höhen unterscheidet man bei Wolken?
+2. Welche Höhen haben sie etwa in den gemäßigten Breiten?
+Antwort 17:
+1. Tiefe, mittelhohe und hohe Wolken.
+2. Tiefe Wolken zwischen 0 und 2 km, mittelhohe Wolken zwischen 2 und 7 km und hohe Wolken zwischen 7 und 13 km.
+
+Frage 18:
+Woraus bestehen hohe Wolken?
+Antwort 18:
+Aus kleinen Eiskristallen.
+
+Frage 19:
+Woran erkennt man bei Wolkenbildung eine kräftige Gewitterentwicklung?
+Antwort 19:
+Am Cumulonimbus, wenn er in großer Höhe einen ambossförmigen Schirm hat.
+
+Frage 20:
+Welche Wolken kündigen oft schon vormittags kräftige Wärmegewitter an?
+Antwort 20:
+Altocumulus castellanus (mittelhohe türmchenartige Haufenwolken).
+
+Frage 21:
+Wie verhält sich der Wind in Bodennähe auf der Nordhalbkugel zwischen Hoch- und Tiefdruckgebieten?
+Antwort 21:
+Er weht rechtsherum aus dem Hochdruckzentrum heraus und linksherum in den Tiefdruckkern hinein.
+
+Frage 22:
+1. Was ist eine Front?
+2. Welche Fronten unterscheidet man im Allgemeinen?
+Antwort 22:
+1. Front ist die vordere Grenze einer Luftmasse in Bewegungsrichtung.
+2. Warm-, Kalt- und Okklusionsfronten.
+
+Frage 23:
+Wie verhält sich typischerweise der Luftdruck
+1. vor,
+2. während und
+3. nach dem Durchzuug einer Kaltfront?
+Antwort 23:
+1. Der Luftdruck ist gleichbleibend oder fälllt nur wenig.
+2. Während des Durchgangs der Front erreicht der Luftdruck seinen tiefsten Wert.
+3. Der Luftdruck steigt wieder deutlich an.
+
+Frage 24:
+Was lässt sich aus der Darstellung der Isobaren in einer Wetterkarte erkennen?
+Antwort 24:
+Windrichtung und Druckgefälle; je enger sie liegen, desto größer ist das Druckgefälle und desto stärker ist der Wind.
+
+Frage 25:
+Warum weht der Wind nicht parallel zu den Isobaren? (Begründung)
+Antwort 25:
+Durch die Bodenreibung ist der Wind rückgedreht (gegen den Uhrzeigersinn).
+
+Frage 26:
+1. Wie weht der Wind über See in Bodennähe um ein Tiefdruckgebiet?
+2. Mit wie viel Grad Änderung in der Windrichtung müssen Sie etwa rechnen?
+Antwort 26:
+1. Der Wind weht nicht parallel zu den Isobaren, er ist rückgedreht und weht in das Tief hinein.
+2. Ein bis zwei Strich bzw. ca. 10° bis 20°.
+
+Frage 27:
+1. Wie weht der Wind über See in Bodennähe um ein Hochdruckgebiet?
+2. Mit wie viel Grad Änderung in der Windrichtung müssen Sie etwa rechnen?
+Antwort 27:
+1. Der Wind weht nicht parallel zu den Isobaren, er ist rückgedreht und weht aus dem Hoch hinaus.
+2. Ein bis zwei Strich bzw. 10° bis 20°.
+
+Frage 28:
+Welche Verlagerungsgeschwindigkeiten haben Tiefdruckgebiete:
+1. schnelle,
+2. mittlere,
+3. langsame?
+Antwort 28:
+1. Schnelle: 30 bis 50 kn.
+2. Mittlere: 15 bis 30 kn.
+3. Langsame: bis 15 kn.
+
+Frage 29:
+Wie entstehen Tiefdruckgebiete?
+Antwort 29:
+Durch das Aufeinandertreffen von kalten Luftmassen aus hohen Breiten und subtropischen warmen Luftmassen.
+
+Frage 30:
+Welche Windverhältnisse herrschen in der Nähe des Zentrums eines Hochdruckgebiets?
+Antwort 30:
+Meist schwache umlaufende Winde.
+
+Frage 31:
+In welchem Abstand werden Isobaren international dargestellt oder gezeichnet?
+Antwort 31:
+Im Abstand von 5 hPa oder im Abstand von 5 mbar.
+
+Frage 32:
+Welche Sicht- und Wetterverhältnisse erwarten Sie typischerweise
+1. vor oder nahe der Warmfront,
+2. im Warmsektor,
+3. hinter der Kaltfront?
+Antwort 32:
+1. Sichtverschlechterung durch Niederschlag, bedeckt, länger andauernder Regen.
+2. Diesig oder mäßige Sicht, Wolkenauflockerung, zeitweise Regen
+3. Sichtbesserung, meist gute Sicht. Schauer mit zum Teil kräftigen Böen.
+
+Frage 33:
+Welche Windrichtungen erwarten Sie an den Punkten 1, 2, 3, 4, 5 eines Tiefdruckgebiets auf der Nordhalbkugel?
+Antwort 33:
+1. Nordost.
+2. Süd.
+3. Südwest.
+4. Nordwest.
+5. Umlaufender Wind.
+
+Frage 34:
+Um welche Arten von Fronten handelt es sich in der Abbildung, die mit 1, 2 und 3 bezeichnet sind?
+Antwort 34:
+1. Okklusionsfront (Tiefausläufer).
+2. Warmfront.
+3. Kaltfront.
+
+Frage 35:
+1. Was sind Luftmassengrenzen?
+2. Welche Luftmassengrenzen kennen Sie? Nennen Sie mindestens 2 Beispiele.
+Antwort 35:
+
+1. Luftmassengrenzen sind Fronten. Sie trennen Luftmassen mit unterschiedlicher Temperatur und Luftfeuchtigkeit.
+2. Kaltfront, Warmfront, Okklusion.
+
+Frage 36:
+Mit welchen lokalen Windsystemen müssen Sie insbesondere im Mittelmeer rechnen?
+Antwort 36:
+Mit der Land-/Seewind-Zirkulation.
+
+Frage 37:
+Nennen Sie mindestens 3 regionale Windsysteme im Mittelmeer, die beim küstennahen Segeln im Mittelmeer besonders beachtet werden müssen.
+Antwort 37:
+Mistral, Scirocco, Bora und Etesien/Meltemi.
+
+Frage 38:
+Mit welchem regionalen Windsystem muss in der Adria gerechnet werden?
+Antwort 38:
+Mit Bora.
+
+Frage 39:
+Mit welchem regionalen Windsystem muss in der Ägäis gerechnet werden?
+Antwort 39:
+Mit den Etesien/dem Meltemi.
+
+Frage 40:
+Wo bilden sich Tröge um ein Tiefdruckgebiet?
+Antwort 40:
+Auf der Rückseite von Tiefdruckgebieten in hochreichender Kaltluft. Ein Trog folgt typischerweise einer Kaltfront.
+
+Frage 41:
+Welche Front wird auch als "Ausläufer" bezeichnet?
+Antwort 41:
+Die Okklusion.
+
+Frage 42:
+Wodurch und wie entsteht am Tage Seewind?
+Antwort 42:
+Das Land erwärmt sich bei Sonneneinstrahlung tagsüber stärker als das Wasser. Über Land steigt die erwärmte Luft auf. Das dabei entstehende Bodentief wird durch Seewind (Wind von See) aufgefüllt.
+
+Frage 43:
+Welche Wolkenform zeigt sich am späten Vormittag über Land am Himmel und kündigt Seewind an?
+Antwort 43:
+Haufenwolke (Cumulus).
+
+Frage 44:
+Welche Windgeschwindigkeiten in Knoten oder Beaufort erreicht der Seewind etwa
+1. im Mittelmeer,
+2. in Nord- und Ostsee?
+Antwort 44:
+1. Bis zu 25 kn oder Bft 6.
+2. Bis 15 kn, in Einzelfällen bis 20 kn oder Bft 4/5, in Einzelfällen Bft 5/6.
+
+Frage 45:
+Zu welcher Tageszeit müssen Sie mit Seewind rechnen?
+Antwort 45:
+Von Mittag bis zum frühen Abend.
+
+Frage 46:
+Welche Windänderung kann der einsetzende Seewind bewirken?
+Antwort 46:
+Er verändert den vorher wehenden Wind zum Teil erheblich in Richtung und Stärke.
+
+Frage 47:
+Wodurch und wie entsteht nachts Landwind?
+Antwort 47:
+Das Land kühlt sich bei geringer Bewölkung stark ab. Das Wasser ändert seine Temperatur an der Oberfläche dagegen nur
+geringfügig. Über dem Wasser steigt daher erwärmte Luft auf. Das dabei entstehende Bodentief wird durch Landwind (Wind von
+Land) aufgefüllt.
+
+Frage 48:
+Welche Windgeschwindigkeiten erreicht nachts der Landwind?
+Antwort 48:
+Er weht allgemein schwächer als der Seewind, etwa 1 bis 10 kn oder Bft 1-3.
+
+Frage 49:
+Wann müssen Sie im Laufe eines Tages mit Landwind rechnen?
+Antwort 49:
+Von Mitternacht bis zum frühen Morgen.
+
+Frage 50:
+Im Internet finden Sie auf einer "Wetterseite" eine Vorhersagekarte mit Windpfeilen. In welcher Höhe über dem Erdboden/der Wasseroberfläche gelten die vorhergesagten Windgeschwindigkeiten?
+Antwort 50:
+Meistens etwa 10 Meter über dem Erdboden/der Wasseroberfläche.
+
+Frage 51:
+Sie segeln mit Ihrer Yacht "raumschots". Nach der nächsten Tonne müssen Sie anluven. Wie wird sich die wahre Windgeschwindigkeit auf Ihrem Windmesser/Anemometer entwickeln?
+Antwort 51:
+Sie bleib unverändert.
+
+Frage 52:
+Welche Windsituation ist mit der Formulierung "Nordwest 6" bezüglich
+1. der Schwankungsbreite in Windrichtung und
+2. der Schwankungsbreite in der Windstärke (Böen) verbunden?
+Antwort 52:
+1. Die Schwankung in der Windrichtung kann bis zu 45° um die Hauptwindrichtung betragen, also von Westnordwest (WNW) bis Nordnordwest (NNW).
+2. Es können Böen auftreten, die etwa 1 bis 2 Bft über dem Mittelwind liegen.
+
+Frage 53:
+Was ist mit dem Zusatz "Schauerböen" bei der Windvorhersage verbunden?
+Antwort 53:
+Besonders während der Passage und auf der Rückseite von Kaltfronten treten in der näheren Umgebung von Schauern Böen auf, die den Mittelwind um 2 Bft überschreiten können.
+
+Frage 54:
+Warum werden Gewitterböen in der Windvorhersage zusätzlich angegeben?
+Antwort 54:
+Besonders im Sommer können bei Schwachwindlagen Gewitter mit Böen auftreten, die Sturm- oder Orkanstärke erreichen können.
+
+Frage 55:
+Wie ist der Aufbau von Seewetterberichten?
+Antwort 55:
+Hinweise auf Starkwind oder Sturm, Wetterlage, Vorhersagen, Aussichten und Stationsmeldungen.
+
+Frage 56:
+Welche lokalen Effekte, die das vorherrschende Windfeld stark verändern, können in Seewetterberichten nur eingeschränkt berücksichtigt werden?
+Antwort 56:
+U. a. Land-/Seewind-Zirkulation, Düsen- und Kapeffekte.
+
+Frage 57:
+1. Wann werden Starkwindwarnungen verbreitet?
+2. Welche Bezeichnung hat die Starkwindwarnung im internationalen Sprachgebrauch?
+Antwort 57:
+1. Bei erwarteten oder noch andauernden Windstärken zwischen 6 und 7 Bft.
+2. Near-gale warning.
+
+Frage 58:
+1. Wann werden Sturmwarnungen verbreitet?
+2. Welche Bezeichnung hat die Sturmwarnung im internationalen Sprachgebrauch?
+Antwort 58:
+1. Bei zu erwartenden oder noch andauernden Windstärken von mindestens 8 Bft.
+2. Gale warning.
+
+Frage 59:
+Welche Wellenhöhe wird bei der Angabe des Seegangs in Seewetterberichten verwendet?
+Antwort 59:
+Die kennzeichnende (charakteristische) Wellenhöhe.
+
+Frage 60:
+1. Wie ist die kennzeichnende (charakteristische) Wellenhöhe definiert?
+2. Womit müssen Sie rechnen?
+Antwort 60:
+1. Mittlere Höhe der gut ausgeprägten (Mittel des oberen Drittels) - nicht extremen - Wellen.
+2. Einzelne Wellen können das 1,5fache der kennzeichnenden Wellenhöhe erreichen.
+
+Frage 61:
+Was bedeutet rechtdrehender bzw. rückdrehender Wind?
+Antwort 61:
+Rechtdrehend bedeutet Änderung der Windrichtung im Uhrzeigersinn. Rückdrehend bedeutet Änderung der Windrichtung gegen den Uhrzeigersinn um mindestens 45°.
+
+Frage 62:
+Sie hören am Ende eines Seewetterberichts die Stationsmeldungen. Was sagen Windrichtung und Windgeschwindigkeit gegenüber den Verhältnissen auf See aus?
+Antwort 62:
+Durch die Umgebung der Wetterstation kann die Windrichtung verfälscht werden. Die Windgeschwindigkeit ist meist reduziert, in Einzelfällen auch erhöht.
+
+Frage 63:
+Welche Sichtweiten umfasst der Begriff "diesig"?
+Antwort 63:
+Sichtweiten über 1 km bis 10 km (bzw. ca. 0,5 bis 6 Seemeilen).
+
+Frage 64:
+Seegebiete sind international festgelegt.
+Antwort 64:
+In welchen amtlichen Veröffentlichungen können Sie nachlesen, wo sich das Seegebiet "Fischer" befindet?
+Im "Handbuch Nautischer Funkdienst", im "Jachtfunkdienst für Nord- und Ostsee" oder in der "Admiralty List of Radio Signals".
+
+Frage 65:
+Sie wollen einen Törn in einem für Sie fremden Küstenrevier fahren. Wie können Sie sich über mittlere Windverhältnisse für bestimmte Jahreszeiten oder Monate informieren?
+Antwort 65:
+In den entsprechenden Hafen-, Revierführern. Außerdem z. B. in Monatskarten.
+
+Frage 66:
+1. Was für Wetter muss meistens erwartet werden, wenn der Luftdruck über einen Zeitraum von 3 Stunden um 10 hPa fällt?
+2. Was muss bei einem an Bord beobachteten starken Luftdruckfall beachtet werden?
+Antwort 66:
+1. Schwerer Sturm.
+2. Der Kurs und die Fahrt des Schiffes in Bezug auf das Tiefdruckgebiet.
+
+Frage 67:
+Wie verändert sich der an Bord beobachtete Luftdruckfall, wenn sich ein Fahrzeug mit Westkurs dem Zentrum eines ostwärts ziehenden Tiefdruckgebiets nähert?
+Antwort 67:
+Der Luftdruckfall wird verstärkt.
+
+Frage 68:
+Mit welchen Windverhältnissen müssen Sie rechnen, wenn Sie im Hafen liegen und der Wind ablandig weht?
+Antwort 68:
+Die im Hafen vorherrschenden Windgeschwindigkeiten entsprechen nicht den Verhältnissen auf der freien See.
+
+Frage 69:
+Mit welchen Windverhältnissen müssen Sie rechnen, wenn Sie in einem relativ ungeschützten Hafen liegen und der Wind auflandig weht?
+Antwort 69:
+Die im Hafen vorherrschenden Windgeschwindigkeiten entsprechen etwa den Verhältnissen auf der freien See.
+
+Frage 70:
+Warum verstärkt sich der Wind in engen Durchfahrten?
+Antwort 70:
+Durch den Düseneffekt (Trichtereffekt) in Durchfahrten. Dabei wird die Luftströmung "zusammengepresst" und beschleunigt.
+
+Frage 71:
+Mit welcher Windentwicklung ist zu rechnen
+1. in Luv und
+2. in Lee von Kaps oder Inseln?
+Antwort 71:
+1. Die Windrichtung ändert sich in Luv des Kaps zum Teil stark und verläuft oft parallel zum Kap. Die Windgeschwindigkeit nimmt zu.
+2. Die Windrichtung kann bei besonders hohen Gebirgen auch umlaufend werden. Die Windgeschwindigkeit ist meist schwach, kann dafür örtlich aber sehr böig sein (Fallwinde).
+
+Frage 72:
+Welche Windverhältnisse erwarten Sie in der Nähe von Steilküsten
+1. bei auflandigem und
+2. bei ablandigem Wind?
+Antwort 72:
+1. Der Wind wird durch Küstenführung zum Teil beschleunigt, wenn er nahezu auflandig oder parallel zur Küste weht.
+2. Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet werden.
+
+Frage 73:
+Wie wird sich das Wetter wahrscheinlich entwickeln, wenn der Wind am Abend
+1. abflaut oder
+2. zunimmt?
+Antwort 73:
+1. Langsames Abflauen des Windes ist oft ein Zeichen für gutes Wetter.
+2. Windzunahme am Abend kündigt häufig Starkwind, Sturm und Regen an.
+
+Frage 74:
+1. Womit müssen Sie auf der Nordhalbkugel rechnen, wenn nach Durchzug einer Kaltfront der Wind rückdreht und der Luftdruck wieder fällt?
+2. Wie nennt man die Wetterlage?
+Antwort 74:
+1. Meist deutliche Wetterverschlechterung mit erneut auffrischendem Wind bis Sturmstärke.
+2. Troglage.
+
+Frage 75:
+Welche Windverhältnisse erwarten Sie auf der Nordhalbkugel während der unmittelbaren Passage eines markanten Troges?
+Antwort 75:
+Der Wind dreht rechts, meist über 60 bis 90°. Winde bis Orkanstärke besonders auf der Rückseite eines Troges.
+
+Frage 76:
+Wie entsteht Nebel?
+Antwort 76:
+Zufuhr von Feuchte, Mischung von Luftmassen mit hoher Feuchtigkeit und verschiedener Temperatur, Abkühlung der Luftmasse.
+
+Frage 77:
+Wie ist Nebel definiert?
+Antwort 77:
+Sichtweite unter 1 000 Meter.
+
+Frage 78:
+1. Wie entsteht Kaltwassernebel?
+2. Zu welcher Jahreszeit tritt diese Nebelart in europäischen Gewässern bevorzugt auf?
+Antwort 78:
+1. Warme und feuchte Luftmassen werden durch den kalten Untergrund (Meer) unter den Taupunkt abgekühlt.
+2. Überwiegend im Frühjahr.
+
+Frage 79:
+1. Wie entsteht Warmwassernebel?
+2. Zu welcher Jahreszeit tritt diese Nebelart in europäischen Gewässern bevorzugt auf?
+Antwort 79:
+1. Kalte Luft strömt über warmes Wasser. Durch Verdunstung an der Wasseroberfläche kommt es bei hoher Differenz zwischen der Luft- und Wassertemperatur zur Feuchtesättigung.
+2. Überwiegend im Herbst.
+
+Frage 80:
+1. Wie entsteht Strahlungsnebel?
+2. Wo ist diese Nebelart anzutreffen?
+Antwort 80:
+1. Nach Sonnenuntergang kann sich bei klarem Himmel die bodennahe Luftschicht über Land unter den Taupunkt abkühlen.
+2. Besonders auf Flüssen und engen Durchfahrten, außerdem durch seewärtige Windverdriftung in Küstennähe.
+
+Frage 81:
+Wodurch kann es im Mittelmeerraum in besonderen Fällen zur Sichtreduktion kommen?
+Antwort 81:
+Bei bestimmten Wetterlagen kann mit der Luftmasse transportierter Saharastaub die Sicht stark vermindern.
+
+Frage 82:
+Woraus besteht Seegang?
+Antwort 82:
+Aus Windsee und Dünung.
+
+Frage 83:
+Was verstehen Sie unter Windsee?
+Antwort 83:
+Seegang, der durch den Wind am Ort oder in der näheren Umgebung angefacht wird.
+
+Frage 84:
+Wovon hängt die Höhe der Windsee ab?
+Antwort 84:
+Windgeschwindigkeit, Fetch (Windwirklänge) und Wirkdauer des Windes.
+
+Frage 85:
+1. Was verstehen Sie unter Dünung?
+2. Was kann einsetzende hohe Dünung andeuten?
+Antwort 85:
+1. Seegang, der dem erzeugenden Windfeld vorausläuft, sowie abklingender (alter) Seegang.
+2. Einen eventuell aufziehenden Sturm.
+
+Frage 86:
+Was verstehen Sie unter der Wellenhöhe?
+Antwort 86:
+Der senkrechte Abstand zwischen Wellenberg und Wellental.
+
+Frage 87:
+Was verstehen Sie unter der Wellenlänge?
+Antwort 87:
+Der horizontale Abstand zwischen zwei Wellenbergen.
+
+Frage 88:
+Welchen Seegang müssen Sie erwarten, wenn Sie küstennah bei ablandigem Wind fahren?
+Antwort 88:
+Der Seegang wird nicht so hoch sein wie auf der freien See, da der Fetch (Windwirklänge) nur sehr kurz ist.
+
+Frage 89:
+1. Welchen Seegang müssen Sie erwarten, wenn Sie küstennah bei auflandigem Wind fahren?
+2. Welche Gefahr besteht bezüglich der Entwicklung des Seegangs außerdem?
+Antwort 89:
+1. Der Seegang wird ähnlich ausgeprägt sein wie auf der freien See, da genügend Fetch (Windwirklänge) vorhanden ist.
+2. Dort, wo das Wasser flacher wird, oder im Bereich von Untiefen muss mit Brechern und Grundseen gerechnet werden.
+
+Frage 90:
+1. Was verstehen Sie unter einer Grundsee?
+2. Welche Höhen kann sie erreichen?
+Antwort 90:
+1. Meereswellen mit besonders hohen Brechern, die durch Untiefen oder Küstennähe bzw. durch ansteigenden Meeresboden entstehen.
+2. Etwa das 2,5fache der kennzeichnenden (charakteristischen) Wellenhöhe.
+
+Frage 91:
+Wie verändert sich Seegang, wenn Wind und Meeresströmungen (z. B. Gezeitenstrom) entgegengesetzte Richtungen haben?
+Antwort 91:
+Die Wellen werden kürzer und steiler.
+
+Frage 92:
+Wie verändert sich Seegang, wenn Wind und Meeresströmungen (z. B. Gezeitenstrom) die gleiche Richtung haben?
+Antwort 92:
+Die Wellen werden länger und flacher.
+
+Frage 93:
+1. Was verstehen Sie unter einer Kreuzsee?
+2. Geben Sie 3 Beispiele an, wo mit Kreuzsee zu rechnen ist.
+Antwort 93:
+1. Windsee und Dünung laufen aus unterschiedlichen Richtungen heran.
+2. Kurz vor und bei dem Durchzug einer Kaltfront oder eines Troges sowie in der Nähe des Tiefkerns.
+
+Frage 94:
+Welcher Seegang ist in Lee kleiner Inseln zu erwarten?
+Antwort 94:
+Kreuzlaufende See, die meist kurz und kabbelig ist.
+
+Frage 95:
+Welche Faktoren können die Länge und Höhe des Seegangs erheblich verändern?
+Antwort 95:
+Wassertiefe sowie Meeres- und Gezeitenströmungen.
+
+Frage 96:
+Im Internet finden Sie auf einer "Wetterseite" eine Vorhersagekarte für die Dünung. Können Sie daraus ungefähr den vorherrschenden Wind über See ableiten?
+Antwort 96:
+Nein. Dünung kann vorhanden sein, auch wenn kein Windfeld unmittelbar vorhanden ist.
+
+Frage 97:
+Mit welchem Messinstrument wird an Bord die Windgeschwindigkeit gemessen?
+Antwort 97:
+Mit einem Anemometer.
+
+Frage 98:
+Welche Windgeschwindigkeit zeigt das Anemometer an, wenn das Fahrzeug Fahrt durchs Wasser macht?
+Antwort 98:
+Die scheinbare Windgeschwindigkeit.
+
+Frage 99:
+1. Warum sollten Luftdrucktendenzen an Bord beobachtet und aufgezeichnet werden?
+2. In welchem zeitlichen Abstand sollte man den Luftdruck aufzeichnen?
+Antwort 99:
+1. Eventuelle Wetterveränderungen (z. B. Trog, Annäherung eines Tiefdruckgebiets) können registriert werden.
+2. Mindestens alle 4 Stunden.
+
+Frage 100:
+Mit welchem Messinstrument wird an Bord der Luftdruck gemessen?
+Antwort 100:
+Mit dem Barometer oder Barographen.
+
+Frage 101:
+1. Wie bestimmen Sie an Bord die Windstärke, wenn keine Windmessanlage vorhanden ist?
+2. Wie bestimmen Sie an Bord die Windrichtung, wenn keine Windmessanlage vorhanden ist?
+Antwort 101:
+1. Die Windstärke wird geschätzt mit Hilfe der Beaufortskala in Anlehnung an das Seegangsbild.
+2. Die Windrichtung wird anhand der Verlagerung der Wellenkämme geschätzt.
+* Stelle mir die Fragen in dieser Reihenfolge: 35,102,34,32,54,13,23,19,113,103,101,8,89,100,73,18,67,85,30,76,29,4,11,26,6,112,62,98,114,109,41,86,16,94,36,72,64,71,7,55,1,92,56,40,69,83,47,82,105,49,84,44,52,106,107,88,75,15,51,87,37,39,45,91,25,77,117,5,17,90,108,80,38,10,24,74,42,50,20,31,28,48,116,78,33,21,95,104,99,93,59,9,22,60,2,97,58,57,111,65,96,53,81,115,79,61,70,43,14,118,110,46,66,3,12,27,68,63,
