@@ -39,7 +39,7 @@ ls Fragenkatalog-SKS.*.txt | while read F; do
   echo "Fragenkatalog: " >> "Prompt.${F}"
   cat $F >> "Prompt.${F}"
   echo -n '* Stelle mir die Fragen in dieser Reihenfolge: ' >> "Prompt.${F}"
-  grep -E '^Frage ' Prompt.Fragenkatalog-SKS.Navigation.txt | sed -E 's/Frage ([0-9]+):/\1/' | shuf | tr '\n' ',' >> "Prompt.${F}"
+  grep -E '^Frage ' $F | sed -E 's/Frage ([0-9]+):/\1/' | shuf | tr '\n' ',' >> "Prompt.${F}"
 done
 ```
 
