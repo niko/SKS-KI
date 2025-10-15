@@ -2,11 +2,11 @@ tldr;
 
 Die folgenden Files lassen sich direkt als Prompt für das LLM der Wahl kopieren:
 
-* Prompt.Fragenkatalog-SKS.Navigation.txt
-* Prompt.Fragenkatalog-SKS.Schifffahrtsrecht.txt
-* Prompt.Fragenkatalog-SKS.Seemannschaft1.txt
-* Prompt.Fragenkatalog-SKS.Seemannschaft2.txt
-* Prompt.Fragenkatalog-SKS.Wetterkunde.txt
+* [Prompt.Fragenkatalog-SKS.Navigation.txt](https://raw.githubusercontent.com/niko/SKS-KI/refs/heads/main/Prompt.Fragenkatalog-SKS.Navigation.txt)
+* [Prompt.Fragenkatalog-SKS.Schifffahrtsrecht.txt](https://raw.githubusercontent.com/niko/SKS-KI/refs/heads/main/Prompt.Fragenkatalog-SKS.Schifffahrtsrecht.txt)
+* [Prompt.Fragenkatalog-SKS.Seemannschaft1.txt](https://raw.githubusercontent.com/niko/SKS-KI/refs/heads/main/Prompt.Fragenkatalog-SKS.Seemannschaft1.txt)
+* [Prompt.Fragenkatalog-SKS.Seemannschaft2.txt](https://raw.githubusercontent.com/niko/SKS-KI/refs/heads/main/Prompt.Fragenkatalog-SKS.Seemannschaft2.txt)
+* [Prompt.Fragenkatalog-SKS.Wetterkunde.txt](https://raw.githubusercontent.com/niko/SKS-KI/refs/heads/main/Prompt.Fragenkatalog-SKS.Wetterkunde.txt)
 
 TODO: Bilder fehlen noch
 
