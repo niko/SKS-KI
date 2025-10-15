@@ -8,6 +8,8 @@ Die folgenden Files lassen sich direkt als Prompt für das LLM der Wahl kopieren
 * [Prompt.Fragenkatalog-SKS.Seemannschaft2.txt](https://raw.githubusercontent.com/niko/SKS-KI/refs/heads/main/Prompt.Fragenkatalog-SKS.Seemannschaft2.txt)
 * [Prompt.Fragenkatalog-SKS.Wetterkunde.txt](https://raw.githubusercontent.com/niko/SKS-KI/refs/heads/main/Prompt.Fragenkatalog-SKS.Wetterkunde.txt)
 
+Probiert hab ich's recht ausführlich mit Nano Banana im Google AI Studio. Ein kurzer Test mit Google Gemini war auch ok.
+
 TODO: Bilder fehlen noch
 
 
