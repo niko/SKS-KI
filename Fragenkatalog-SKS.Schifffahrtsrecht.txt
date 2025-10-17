@@ -499,15 +499,14 @@ Passierseite an Steuerbord (zwei grüne Rundumlichter übereinander), Passierbeh
 
 Frage 78:
 Sie sehen auf der Elbe bei Tage ein Fahrzeug mit den nachfolgenden schwarzen Signalkörpern, dessen Bugwelle man klar erkennen kann.
-		Ball
-		Rhombus
-	Ball 	Ball 	Rhombus
-	Ball 		Rhombus
+		● Ball
+		♦ Rhombus
+	● Ball	● Ball	♦ Rhombus
+	● Ball		♦ Rhombus
 Um was für ein Fahrzeug handelt es sich?
 Was bedeuten die beiden schwarzen Bälle und die beiden schwarzen Rhomben senkrecht übereinander?
 Antwort 78:
-Entgegenkommendes manövrierbehindertes Fahrzeug von vorn, mit Fahrt durchs Wasser, das Unterwasserarbeiten ausführt (z. B. baggert).
-Passierseite an Backbord des Baggers (zwei schwarze Rhomben übereinander), Passierbehinderung an Steuerbord-Seite des Baggers (zwei schwarze Bälle übereinander).
+Entgegenkommendes manövrierbehindertes Fahrzeug von vorn, mit Fahrt durchs Wasser, das Unterwasserarbeiten ausführt (z. B. baggert). Passierseite an Backbord des Baggers (zwei schwarze Rhomben übereinander), Passierbehinderung an Steuerbord-Seite des Baggers (zwei schwarze Bälle übereinander).
 
 Frage 79:
 Beim Passieren von Cuxhaven sichten Sie, elbabwärts segelnd, an Ihrer Steuerbord-Seite die Tonne 32a. Um was für eine Tonne handelt es sich, welche Bezeichnung hat die nächste Tonne an der gleichen Seite?
@@ -528,9 +527,9 @@ Antwort 81:
 
 Frage 82:
 Während einer Revierfahrt erkennen Sie ein Signal an Land, jeweils schwarze Signalkörper:
-	Ball
-	Ball
-	Kegel (Spitze unten)
+	● Ball
+	● Ball
+	▼ Kegel (Spitze unten)
 1. Was bedeutet dieses Signal?
 2. Welches Signal wird stattdessen nachts gezeigt?
 Antwort 82:

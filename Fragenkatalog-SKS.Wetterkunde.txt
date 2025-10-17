@@ -202,6 +202,7 @@ Antwort 32:
 
 Frage 33:
 Welche Windrichtungen erwarten Sie an den Punkten 1, 2, 3, 4, 5 eines Tiefdruckgebiets auf der Nordhalbkugel?
+[Bild mit Tiefdruckgebiet, eingezeichnete Punkte 1 nördlich des Tiefs, 2 Süd-östlich Tiefs, 3 Süd-süd-östlich des Tiefs, 4 Östlich des Tiefs, 5 Im Zentrum des Tiefs]
 Antwort 33:
 1. Nordost.
 2. Süd.
@@ -211,6 +212,7 @@ Antwort 33:
 
 Frage 34:
 Um welche Arten von Fronten handelt es sich in der Abbildung, die mit 1, 2 und 3 bezeichnet sind?
+[Bild mit 3 Fronten: 1 einer lila-farbenen mit Dreiecken und Halbkreisen, 2 einer roten mit Halbkreisen, 3 einer blauen mit Dreiecken]
 Antwort 34:
 1. Okklusionsfront (Tiefausläufer).
 2. Warmfront.

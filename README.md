@@ -8,10 +8,9 @@ Die folgenden Files lassen sich direkt als Prompt für das LLM der Wahl kopieren
 * [Prompt.Fragenkatalog-SKS.Seemannschaft2.txt](https://raw.githubusercontent.com/niko/SKS-KI/refs/heads/main/Prompt.Fragenkatalog-SKS.Seemannschaft2.txt)
 * [Prompt.Fragenkatalog-SKS.Wetterkunde.txt](https://raw.githubusercontent.com/niko/SKS-KI/refs/heads/main/Prompt.Fragenkatalog-SKS.Wetterkunde.txt)
 
+Obacht: Ich habe es nicht geschafft, Bilder einzufügen. In den wenigen Fällen, in denen die Fragen Bilder enthalten habe ich diese entweder per UTF8-Zeichen imitiert oder einfach beschrieben. Mir reichte das zum Lernen, weil ich die Bilder ja alle schon gesehen hatte. Für die Bilder sollte man sich also das Original-PDF nochmals anschauen.
+
 Probiert hab ich's recht ausführlich mit Nano Banana im Google AI Studio. Ein kurzer Test mit Google Gemini 2.5 war auch ok, aber langsam. Für ChatGPT 4.0 ist der Prompt zu groß. Perplexity haluziniert bei der zweiten Frage.
-
-TODO: Bilder fehlen noch
-
 
 Extrahieren der Wissensgebiete aus dem PDF:
 ```

@@ -236,8 +236,9 @@ Frage 41:
 Erklären Sie mit Hilfe eines Vektorparallelogramms aus "wahrem Wind (wW)", "Fahrtwind (Fw)" und "scheinbarem Wind (sW)", warum beim Einfallen einer Bö (Windzunahme) der "scheinbare Wind" raumt. Welcher Vorteil ergibt sich dadurch beim Kreuzen? (Zeichnung!)
 Antwort 41:
 Verhältnisse vor Einfall der Bö:
-
+[Skizze mit wW aus 90°, Fw aus 0° und sW aus 60°]
 Verhältnisse bei Einfall der Bö:
+[Skizze mit mehr wW aus 90°, Fw aus 0° und sW aus 70°]
 Der "scheinbare Wind" fällt etwas achterlicher ein, er "raumt", und das Segelboot kann etwas höher an den "wahren Wind" gehen.
 
 Frage 42:
@@ -459,15 +460,19 @@ Durch einen genähten Takling.
 
 Frage 78:
 Wie sind längsseits liegende Fahrzeuge festzumachen? Ergänzen Sie die Skizze und benennen Sie die Leinen.
+[Skizze mit einem längsseits liegenden Boot]
 Antwort 78:
 1. Achterleine,
 2. Achterspring,
 3. Vorspring,
 4. Vorleine.
+Fender einzeichnen!
 
 Frage 79:
-Wie können Sie mit Hilfe von zwei Fendern und einem Fenderbrett Ihr Boot festmachen, wenn die Pier mit vorspringenden Pfählen versehen ist? Ergänzen Sie die Skizze mit Leinen.
+Wie können Sie mit Hilfe von zwei Fenern und einem Fenderbrett Ihr Boot festmachen, wenn die Pier mit vorspringenden Pfählen versehen ist? Ergänzen Sie die Skizze mit Leinen.
+[Skizze mit einem längsseits liegenden Boot an einer Spundwand]
 Antwort 79:
+Achterleine, Achterspring, Vorspring, Vorleine.
 Fenderbrett zwischen Fendern und Pier.
 
 Frage 80:
@@ -615,8 +620,9 @@ Wenn die Yacht sich nicht freikreuzen kann, droht Strandung.
 Frage 104:
 Mit welchem Manöver können Sie bei Starkwind das Halsen vermeiden (Name)?
 Vervollständigen Sie die Skizze durch Einzeichnen der Kurslinie und geben Sie die erforderlichen Manöver an.
+[Skizze mit einem raumschots segelndes Segelboot vor und nach dem Manöver, einmal auf Steuerbord-, einmal auf Backbord-Bug]
 Antwort 104:
-Q-Wende.
+Q-Wende Kurs einzeichnen
 
 Frage 105:
 Was erreicht man mit dem Ausbringen eines Treibankers bei schwerer See?
